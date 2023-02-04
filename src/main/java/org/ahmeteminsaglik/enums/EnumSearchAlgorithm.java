@@ -2,6 +2,7 @@ package org.ahmeteminsaglik.enums;
 
 public enum EnumSearchAlgorithm {
     SEARCH_NODE("SearchNode"),
+    HASHMAP("HashMap"),
     LINEAR_SEARCH("Linear Search"),
     BINARY_SEARCH("Binary Search"),
     TERNARY_SEARCH("Ternary Search"),

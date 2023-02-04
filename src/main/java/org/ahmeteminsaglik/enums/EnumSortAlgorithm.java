@@ -1,7 +1,7 @@
 package org.ahmeteminsaglik.enums;
 
 public enum EnumSortAlgorithm {
-    SEARCH_NODE("SearchNode"),
+    NO_SORT("No-Sort"),
     SELECTION_SORT("Selection Sort"),
     INSERTION_SORT("Insertion Sort"),
     BUBBLE_SORT("Bubble Sort"),
